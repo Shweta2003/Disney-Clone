@@ -27,4 +27,12 @@
 
 ## How to access the website?
 
-### GO
+### Go to the right hand side of the github repo and under the about section, click on *disney-clone-rosy.vercel.app*. or under the environment section click on the option available and thn click on deployments.
+
+### OR
+
+### I am Providing a direct link for my frontpage clone of disney+ hotstar.
+
+https://disney-clone-rosy.vercel.app/
+
+
